@@ -1,0 +1,6 @@
+framework module Pods_EstimoteUITests {
+  umbrella header "Pods-EstimoteUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
